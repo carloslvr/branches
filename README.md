@@ -2,4 +2,6 @@
 
 > Esta linha foi criada usando a branch `dev`.
 
-> Esta linha foi criada usando a branch `feat-1`.
+````javascript
+console.log('Hello World');
+```
